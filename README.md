@@ -1,5 +1,5 @@
 Who Am I?
-I consider myself as a senior (at least on a time scale :) PHP-Backend Developer, working since 1999 for many companies.
+I consider myself as a senior (at least on a time scale :) Full Stack Developer, working since 1999 for many companies.
 
 Quick Background History: 
 After dropping my studies as C/C++ Programmer in 1998 got a full-time Job as PHP Developer in a very cool Multimedia company P***** AG, there I developed Projects for big guns like Aral, Radici Plastics, Computer+Science, DRK, Eurami, Reederei-Schwaben, and many others. I also co-developed an In-house CMS-System and countless customer-specific Intranet Projects (Gambro/KVSW), mostly Back-End.
